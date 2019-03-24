@@ -1,8 +1,7 @@
 {
   "profiles": {
     "WizComponentGenerator": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\easy_\\Source\\Repos\\StijnOostdam\\Nanoleaf-wpf\\Nanoleaf-wpf\\bin\\Release\" \"C:\\Users\\easy_\\Source\\Repos\\StijnOostdam\\Nanoleaf-wpf\\Setup\"  \"C:\\Users\\easy_\\Source\\Repos\\StijnOostdam\\WizComponentGenerator\\Test.wxs\" APPLICATIONROOTDIRECTORY MainApplication"
+      "commandName": "Project"
     }
   }
 }
