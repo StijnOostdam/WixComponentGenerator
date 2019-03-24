@@ -1,5 +1,5 @@
 # WizComponentGenerator
-Console application that inserts components from a projects output folder into a Wiz setup file (.wxs)
+Console application that inserts components from a projects output folder into a [Wix](http://wixtoolset.org/) setup file (.wxs)
 
 Used for building .wxs file for [Winleafs](https://github.com/StijnOostdam/Winleafs)
 
